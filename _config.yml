@@ -23,9 +23,9 @@ email: alchemy@posetmage.com
 url: https://alchemy.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 slogan: 大腦是一個賢者之石，充滿無限可能
 
-description: Daily
-baseurl: "/Daily" # the subpath of your site, e.g. /blog
-repository: alchemymage/Daily
+description: Blog
+baseurl: "/Blog" # the subpath of your site, e.g. /blog
+repository: alchemymage/Blog
 
 defaults:
   -
