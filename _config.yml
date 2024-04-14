@@ -32,7 +32,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "daily"
+      layout: "article"
 
 social:
   - platform: envelope
