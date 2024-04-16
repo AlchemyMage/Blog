@@ -21,7 +21,6 @@
 title: 鍊金Mage
 email: alchemy@posetmage.com
 url: https://alchemy.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
-slogan: 大腦是一個賢者之石，充滿無限可能
 
 description: Blog
 baseurl: "/Blog" # the subpath of your site, e.g. /blog
@@ -32,7 +31,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "blog"
+      layout: "page/blog/blog"
 
 social:
   - platform: envelope
