@@ -45,6 +45,11 @@ social:
   - platform: threads
     url: https://threads.net/alchemy.mage
 
+exclude:
+  - _includes/.git/
+  - _layouts/.git/
+  - _layouts/page/.git/
+  - assets/.git/
 
 # Build settings
 remote_theme: jekyll/minima
