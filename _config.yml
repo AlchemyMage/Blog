@@ -33,17 +33,26 @@ defaults:
     values:
       layout: "page/blog/blog"
 
+
+# Build settings
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+
+kramdown:
+  parse_block_html: true
+
+collections:
+  directories:
+    output: true
+
 exclude:
   - _includes/.git/
   - _layouts/.git/
   - _layouts/page/.git/
   - assets/.git/
+  - "*.mm.md"
 
-# Build settings
-remote_theme: jekyll/minima
-
-minima:
-  skin: dark
 
 plugins:
   - jekyll-external-links
