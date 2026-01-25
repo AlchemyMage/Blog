@@ -1,7 +1,7 @@
 ---
 title:  "從免費仔到月付 $100：Claude Code CLI 讓我重新思考什麼是 AGI"
 date:   2026-1-19 10:00:00 +0800
-tags: [Programming]
+tags: [Tech]
 
 ---
 
