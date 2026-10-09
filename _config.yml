@@ -42,6 +42,10 @@ minima:
 kramdown:
   parse_block_html: true
 
+# Publish posts whose displayed date is later than the build server's UTC time.
+# This prevents same-day +0800 posts from disappearing before 02:00 UTC.
+future: true
+
 collections:
   directories:
     output: true
